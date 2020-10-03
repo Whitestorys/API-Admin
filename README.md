@@ -15,7 +15,7 @@ location / {
 
 默认账号密码为`admin` `123456` 如需添加API 请将API放入`api`目录
 
-**新增的API文档编写请参考：https://tenapi.cn/doc/ ** QQ交流群：546609030
+**新增的API文档编写请参考：https://tenapi.cn/doc/** 
 
 Bug反馈请提交`Issues`或前往博客留言https://5ime.cn/api-admin.html
 
@@ -26,6 +26,9 @@ Bug反馈请提交`Issues`或前往博客留言https://5ime.cn/api-admin.html
 - 2020-4-20 修复移动端菜单栏不显示/优化部分代码
 - 2020-4-22 更新首页样式
 - 2020-4-23 修复已知bug 新增`皮皮虾无水印解析API`，`每日Bing获取API`,`QQ短网址获取API`,`垃圾分类查询API`,`手机号归属地查询API`,`申通快递查询API`
+- 2020-8-4 修复部分bug,**建议重新安装**
+- 2020-8-21 修复已知bug 新增`蓝奏云直链获取API`，`火山小视频去水印API`,`360/搜狗/百度收录量查询API`,`短网址还原API`
+- 20220-9-27 修复部分已知失效API 如有其他失效API请提交Issues
 
 # 预览图
 ## 首页
